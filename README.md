@@ -1,5 +1,5 @@
 # Research-Methods
-A University is Edinburgh 3rd year Physics Course. It is a written report about a subject selected by the group. Members of the group included Hannah Nicholson, Tanja Holc, Sandy Rome, Ben Attwood and Charles Lamb.
+A University of Edinburgh mandatory 3rd year Physics Course. The PDF attached is the literature review coursework submitted at the end of the course. Members of the group included Tanja Holc, Sandy Rome, Ben Attwood, Charles Lamb and Hannah Nicholson.
 
 ### Title of Report: Comets and Their Connection to the Origin of Life on Earth
 
